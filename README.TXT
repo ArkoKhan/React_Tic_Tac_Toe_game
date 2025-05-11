@@ -26,7 +26,7 @@ Follow these steps in **Git Bash**:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/tic-tac-toe-react.git
+git clone https://github.com/ArkoKhan/React_Tic_Tac_Toe_game.git
 
 # Navigate into the project directory
 cd tic-tac-toe-react

@@ -7,7 +7,6 @@ A simple and interactive Tic Tac Toe game built using **React**. This project is
 ## 🛠️ Features
 
 - Classic 2-player Tic Tac Toe gameplay
-- Responsive design
 - Game status display (winner/draw)
 - Restart functionality
 
